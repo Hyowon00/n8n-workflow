@@ -9,6 +9,7 @@
 - [02-workflow-automatic-account-book](./02-workflow-automatic-account-book/): 결제 문자 메시지를 자동으로 가계부에 기입 및 세분화
 
 
-## Organized by 이효원
+## 기여자
+> Organized by 이효원
 
 [✉️ Linkedin](https://www.linkedin.com/in/hyowonlee1807/), [📝 블로그](https://dlgydnjs718.tistory.com/)
