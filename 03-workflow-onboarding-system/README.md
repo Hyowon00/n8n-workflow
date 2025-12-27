@@ -10,6 +10,7 @@
  ![image](https://github.com/ggplab/n8n-playbook/blob/main/12-workflow-onboarding-system/screenshot/00%20%EC%98%A8%EB%B3%B4%EB%94%A9%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.gif)
 
 - 실제 결과물 화면
+  
 온보딩 0일차 입사 환영 및 첫 출근 안내 이메일 & 노션 온보딩 체크리스트 페이지 생성
 <div align="center">
   <img src="https://github.com/ggplab/n8n-playbook/blob/main/12-workflow-onboarding-system/screenshot/01%20%EC%9E%85%EC%82%AC%20%EC%B6%95%ED%95%98%20%EC%9D%B4%EB%A9%94%EC%9D%BC.png" width="350px"/>
